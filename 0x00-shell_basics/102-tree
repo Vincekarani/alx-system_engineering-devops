@@ -1,2 +1,3 @@
-#!/bin/bash
-kdir -p welcome/welcome/to/school/school
+0#!/bin/bash
+kdir -p welcome/welcome/to/school/welcome/to/school
+
