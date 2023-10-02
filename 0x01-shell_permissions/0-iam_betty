@@ -1,3 +1,6 @@
 #!/bin/bash
 su betty
+<<<<<<< HEAD
 why?
+=======
+>>>>>>> fc26be7ef11bacc5fa0442892f13718d1caa7241
